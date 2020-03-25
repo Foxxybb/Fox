@@ -1,7 +1,7 @@
 ########################################
-# Name: Caleb Richardson
-# Date: 2/17
-# Description: Simon (Python 3.7.5)
+# CHANGING comments to test github usage
+# 
+# 
 ########################################
 import RPi.GPIO as GPIO
 from time import sleep
@@ -134,4 +134,7 @@ try:
 except KeyboardInterrupt:
 	# reset the GPIO pins
 	GPIO.cleanup()
+
+
+
 
