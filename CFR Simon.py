@@ -1,7 +1,7 @@
 ########################################
 # CHANGING comments to test github usage
 # 
-# 
+# CHANGIN comment here to test single file commit
 ########################################
 import RPi.GPIO as GPIO
 from time import sleep
